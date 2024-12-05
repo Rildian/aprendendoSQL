@@ -1,4 +1,5 @@
-# aprendendoSQL
-Alguns códigos do MySQL
+<h1> Diretório de comandos usando bancos de dados</h1>
+Alguns códigos do MySQL, PostgreeSQL e outros.
 
-Vou colocar todos os projetos de análises de dados aqui, envolvendo "data wrangling", explorando funções e outros mecanismos do MySQL.
+Testes, novas funções e aprendizados serão postos aqui como meu baú.
+Colocarei todos os projetos de análises de dados aqui, envolvendo "data wrangling", explorando funções e outros mecanismos do MySQL.
