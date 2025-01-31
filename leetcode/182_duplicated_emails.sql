@@ -2,5 +2,7 @@ SELECT
     email
 FROM 
     Person
-HAVING
-    count(email) >= 2 
+GROUP BY
+    email
+HAVING 
+    count(email) > 1
